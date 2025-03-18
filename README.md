@@ -1,7 +1,9 @@
 # iris_distro
 
 Paper : https://groups.csail.mit.edu/robotics-center/public_papers/Deits14.pdf
+
 Main Repo : https://github.com/cohnt/iris-torus
+
 Blog : https://blog.tommycohn.com/2023/05/iris-on-torus-growing-convex-sets-on.html
 
 Credits : 
